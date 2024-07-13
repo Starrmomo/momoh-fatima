@@ -1,0 +1,68 @@
+.hero{
+    margin: 50px solid black;
+    background-color:rgb(58, 24, 24);
+    padding: 20px;
+    padding: 50px;
+    display: flex;
+    justify-content: space-around;
+    color: aliceblue;
+
+    .sedan-sc-regular{
+        font-family: "Sedan SC", serif;
+        font-weight: 400;
+        font-style: normal;
+      }
+      
+}
+
+body{
+    background-color:bisque;
+}
+
+.para{
+    padding-left: 100px;
+}
+
+#aboutme{
+    margin-left: 20px;
+
+}
+
+.lola{
+    margin-left: 30px;
+}
+
+#Experience{
+    margin-left: 30px;
+}
+
+.image{
+    border-radius: 50%;
+    border: 2px solid black;
+    padding-left: 3;
+    
+    }
+
+nav{
+  background-color: rgb(56, 22, 22);
+  padding: 16px;
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 16px;
+  }
+  
+  nav a{
+    color: white;
+    text-decoration: none;
+  }
+  nav a :hover{
+    text-decoration: underline;
+  }
+
+  #Education{
+    margin-left: 60px
+  }
+
+  #Contact{
+    margin-left: 60px;
+  }
